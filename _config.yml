@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Learning gh-pages"
+title                    : "Green web site gh-pages"
 title_separator          : "-"
 name                     : "Harish Lingegowda"
 description              : "Data Portfolio"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Harish Lingegowda"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "Data Portfolio"
   location         : "Your Location"
   email            :
   uri              :
